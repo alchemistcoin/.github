@@ -36,7 +36,7 @@ u in ?
 Voting: https://cast.alchemist.wtf/  
 Discord: http://discord.alchemist.wtf/  
 FAQ: https://docs.alchemist.wtf/  
-GitHub: https://github.com/alchemistcoin
-Crucible/Aludel Rewards: https://crucible.wtf
+GitHub: https://github.com/alchemistcoin  
+Crucible/Aludel Rewards: https://crucible.wtf  
 MistX FlashDEX: https://mistx.io/  
-Copper Launch: https://copperlaunch.com/
+Copper Launch: https://copperlaunch.com/  
