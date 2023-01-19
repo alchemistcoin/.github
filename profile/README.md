@@ -33,10 +33,13 @@ u in ?
 
 ## Community
 
-Voting: https://cast.alchemist.wtf/  
-Discord: http://discord.alchemist.wtf/  
-FAQ: https://docs.alchemist.wtf/  
+Voting: https://cast.alchemist.wtf  
+Discord: http://discord.alchemist.wtf  
+Discourse: https://discourse.alchemist.wtf  
+FAQ: https://docs.alchemist.wtf  
 GitHub: https://github.com/alchemistcoin  
 Crucible/Aludel Rewards: https://crucible.wtf  
-MistX FlashDEX: https://mistx.io/  
-Copper Launch: https://copperlaunch.com/  
+Fjord Foundry: https://fjordfoundry.com  
+Fjord NFTs: https://fjordfoundry.com  
+Chaos Labs: https://chaoslabs.wtf  
+Room 33: https://room33.wtf  
